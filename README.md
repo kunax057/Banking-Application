@@ -381,7 +381,7 @@ kubectl delete service ekart-shoping-ssvc
 
 ## 👨‍💻 Author
 
-**DevOps Project**
+**Kunal's DevOps Project**
 
 ---
 

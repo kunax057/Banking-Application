@@ -38,7 +38,7 @@ ___________
 ## 🏗️ Architecture Flow Diagram
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TechWithSajan/Ekart-shoping/main/images/architecture.png.jpg" width="900"/>
+  <img src="https://raw.githubusercontent.com/kunax057/Banking-Application/main/images/architecture.png.jpg" width="900"/>
 </p>
 ___________
 
@@ -56,13 +56,13 @@ GitHub → Jenkins → SonarQube → OWASP → Nexus → Docker → Kubernetes (
 
 
 Server creation Repo:
-https://github.com/TechWithSajan/Server-Creation-Jenkins-Nexus-Sonar.git
+https://github.com/kunax057/Server-Creation-Jenkins-Nexus-Sonar.git
 	
 KS Setup:
-https://github.com/TechWithSajan/EKS-cluster-deployment.git
+https://github.com/kunax057/EKS-Cluster-Deployment.git
 
 Application Repo:
-https://github.com/TechWithSajan/Ekart-shoping.git
+https://github.com/kunax057/Banking-Application.git
 
 
 ---
@@ -308,11 +308,11 @@ Add Line 119 in xml
 
 ---
 
-================================Shopping-Ekart Deployment ===================================
+================================Banking-Application Deployment ===================================
 
-Create CICD pipeline for E-kart Deployment  
+Create CICD pipeline Application Deployment  
 
-https://github.com/TechWithSajan/Ekart-shoping.git
+https://github.com/kunax057/Banking-Application.git
 
 ---
 
@@ -381,7 +381,7 @@ kubectl delete service ekart-shoping-ssvc
 
 ## 👨‍💻 Author
 
-**TechDataInfinity DevOps Project**
+**DevOps Project**
 
 ---
 
